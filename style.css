@@ -35,3 +35,15 @@
 		color: #7066e0;
 		font-size: 17px;
 	}
+@media screen and (max-width: 992px) {
+	#b1, #b2, #b3, #b4, #b5,
+	#b6, #b7, #b8, #b9 {
+		width: 60px;
+		height: 30px;
+		margin: auto;
+		border: 1px solid #7066e0 	rgb(0, 98, 123);
+		border-radius: 6px;
+		font-size: 30px;
+		text-align: center;
+	}
+}
