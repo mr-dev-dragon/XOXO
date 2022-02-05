@@ -1,0 +1,37 @@
+
+	#b1, #b2, #b3, #b4, #b5,
+	#b6, #b7, #b8, #b9 {
+		width: 120px;
+		height: 70px;
+		margin: auto;
+		border: 1px solid #7066e0 	rgb(0, 98, 123);
+		border-radius: 6px;
+		font-size: 30px;
+		text-align: center;
+	}
+	#but {
+		box-sizing: border-box;
+		width: 95px;
+		height: 40px;
+		border: 1px solid #7066e0;
+		margin: auto;
+		border-radius: 4px;
+		font-family: Verdana,Geneva, Tahoma, sans-serif;
+		background-color: #7066e0;
+		color: white;
+		font-size: 20px;
+		cursor: pointer;
+	}
+	#print {
+		font-family: Verdana,Geneva, Tahoma, sans-serif;
+		color: #7066e0;
+		font-size: 20px;
+	}
+	main {
+		text-align: center;
+	}
+	#ins {
+		font-family: Verdana,	Geneva, Tahoma, sans-serif;
+		color: #7066e0;
+		font-size: 17px;
+	}
